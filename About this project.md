@@ -24,14 +24,18 @@ The project covers data collection, cleaning, preparation, storage, and in-depth
 ## 3. Data Cleaning and Preparation
 ### Handling Foreign Characters
 •	Modified the data type of the "Title" column to 'nvarchar' to accommodate foreign characters, ensuring all data is accurately represented.
-## Removing Duplicates
+
+### Removing Duplicates
 •	Implemented procedures to eliminate duplicate entries, enhancing data integrity and reliability.
-## Data Type Conversions
+
+### Data Type Conversions
 •	Converted the "Date Added" column from varchar to date for consistent date handling and analysis.
+
 ### Populating Missing Values
 •	Utilized the director column to populate missing values in the "Country" column, ensuring completeness of geographical data.
 
 •	Corrected misattributed values in the "Duration" column using a CASE statement, resolving inconsistencies and improving data accuracy.
+
 ### Creating Separate Tables for Multi-Value Columns
 •	Established separate tables for multi-value attributes such as "Listed In," "Director," "Country," and "Cast" to optimize data organization and querying efficiency.
 
