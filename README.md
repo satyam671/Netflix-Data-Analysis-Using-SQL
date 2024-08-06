@@ -1,7 +1,8 @@
 # About this project
-![tmz5tb8m](https://github.com/user-attachments/assets/92ced536-635b-46ee-b4de-c60b30b89f39)
+![DATA ANALYSIS](https://github.com/user-attachments/assets/9869b4db-0b35-4d08-845f-da4d6ff293b9)
 
 ## 1. Introduction
+
 ### Project Overview: 
 This report presents the findings from an extensive analysis of Netflix data aimed at uncovering viewer behaviors, content trends, and strategic insights for optimizing content strategies and enhancing user experience on the platform.
 
