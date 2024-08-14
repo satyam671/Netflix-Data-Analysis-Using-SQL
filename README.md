@@ -1,5 +1,5 @@
 # About this project
-![DATA ANALYSIS](https://github.com/user-attachments/assets/9869b4db-0b35-4d08-845f-da4d6ff293b9)
+![DATA ANALYSIS](https://github.com/user-attachments/assets/1503c6db-1536-44f9-91cd-55aab8d4089c)
 
 ## 1. Introduction
 
