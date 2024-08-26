@@ -1,10 +1,11 @@
 # About this project
-![DATA ANALYSIS](https://github.com/user-attachments/assets/1503c6db-1536-44f9-91cd-55aab8d4089c)
+
+![DATA ANALYSIS](https://github.com/user-attachments/assets/93f368eb-5fae-4a3f-8a6d-099680f9f5c8)
 
 ## 1. Introduction
 
 ### Project Overview: 
-This report presents the findings from an extensive analysis of Netflix data aimed at uncovering viewer behaviors, content trends, and strategic insights for optimizing content strategies and enhancing user experience on the platform.
+This report presents the findings from an extensive analysis of Netflix data to uncover viewer behaviours, content trends, and strategic insights for optimizing content strategies and enhancing user experience on the platform.
 
 ### Objectives:
 •	Improve data quality through cleaning and normalization.
@@ -30,7 +31,7 @@ The project covers data collection, cleaning, preparation, storage, and in-depth
 •	Implemented procedures to eliminate duplicate entries, enhancing data integrity and reliability.
 
 ### Data Type Conversions
-•	Converted the "Date Added" column from varchar to date for consistent date handling and analysis.
+•	Converted the "Date Added" column from varchar to date for consistent data handling and analysis.
 
 ### Populating Missing Values
 •	Utilized the director column to populate missing values in the "Country" column, ensuring completeness of geographical data.
@@ -44,7 +45,7 @@ The project covers data collection, cleaning, preparation, storage, and in-depth
 ### Raw Data Layer
 •	Stored initial data imports for preservation and future reference.
 ### Final Staging Layer
-•	Maintained cleaned and transformed data, prepared for detailed analysis and reporting.
+•	Maintained cleaned and transformed data, and prepared for detailed analysis and reporting.
 
 ## 5. Data Analysis Using SQL
 ### Director Analysis
@@ -59,7 +60,7 @@ o	Identified 55 directors who have created both horror and comedy movies, with P
 o	Determined that the United States leads with 685 comedy movies, reflecting strong audience preference for this genre.
 
 2.	Average Duration of Movies by Genre
-o	Found that classic movies have the longest average duration (118 minutes), while movies have the shortest average duration (45 minutes).
+•	Found that classic movies have the longest average duration (118 minutes), while movies have the shortest average duration (45 minutes).
 Yearly Release Analysis
 
 •	Analyzed yearly releases to identify trends in directorial output, supporting strategic planning and content scheduling decisions.
@@ -75,16 +76,16 @@ Yearly Release Analysis
 ### Business Implications
 •	Strategic Content Acquisition: Recommends focusing on acquiring comedy content from the United States to meet viewer demand.
 
-•Director Partnerships: Suggests collaborating with directors like Rajiv Chilaka and Jan Suter to diversify content offerings and enhance viewer engagement.
+•Director Partnerships: Suggest collaborating with directors like Rajiv Chilaka and Jan Suter to diversify content offerings and enhance viewer engagement.
 
-•	Optimized Content Length: Proposes balancing the catalog with varying movie durations to cater to diverse viewer preferences and maximize engagement.
+•	Optimized Content-Length: Proposes balancing the catalogue with varying movie durations to cater to diverse viewer preferences and maximize engagement.
 
 ## 7. Appendices
 ### SQL Queries
 •	Detailed SQL queries used for data analysis and insights generation.
 
 Data Dictionary
-Table : Netflix table
+Table: Netflix table
 
 Columns :
 
